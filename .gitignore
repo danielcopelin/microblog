@@ -3,3 +3,6 @@ __pycache__/
 venv/*
 *.pyo
 *.pyc
+start_flask.bat
+logs/
+app/__pycache__/
